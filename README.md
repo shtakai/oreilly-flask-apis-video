@@ -3,7 +3,7 @@ Building Web APIs with Flask
 
 This repository contains the software that accompanies my O'Reilly training video [Building Web APIs with Flask](http://bit.ly/flaskapi).
 
-[![Building Web APIs with Flask](http://img.youtube.com/vi/kO8zr-HO8GA/0.jpg)](http://bit.ly/flaskapi)
+[![Building Web APIs with Flask](http://img.youtube.com/vi/kO8zr-HO8GA/0.jpg)](http://bit.ly/flaskapi) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/oreilly-flask-apis-video.svg)](https://www.guardrails.io)
 
 The class is structured around two example APIs:
 
